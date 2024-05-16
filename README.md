@@ -31,6 +31,14 @@ Feel free to dive into these notebooks to enhance your understanding of video pr
 
 Feel free to contribute to this repository by adding more learning materials, code examples, or additional sections related to computer vision.
 
+## CNN Classifier with PyTorch
+
+Explore the implementation of a Convolutional Neural Network (CNN) classifier using PyTorch with this code example:
+
+- [MNIST.ipynb](https://github.com/saeidKhoobdell/PyTorch-MNIST-CNN-Classifier/blob/main/MNIST.ipynb): Python script for building a CNN classifier for the MNIST dataset using PyTorch.
+
+Feel free to delve into this notebook to understand how to build and train CNN models for image classification tasks using PyTorch.
+
 
 
 
