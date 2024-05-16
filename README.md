@@ -6,7 +6,7 @@ Welcome to the Computer Vision Learning repository! This repository is designed 
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
 
-![Object Detection Example](https://github.com/saeidKhoobdell/ComputerVisionLearning/assets/93375316/c15eaf9d-d78e-43a9-9123-2ef0fbaee788)
+
 
 Feel free to explore other folders and files in this repository for more learning resources.
 
