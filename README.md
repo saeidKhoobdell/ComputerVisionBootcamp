@@ -1,0 +1,39 @@
+# Computer Vision Learning Repository
+
+Welcome to the Computer Vision Learning repository! This repository is designed to provide learning materials and code examples to help you get started with Computer Vision.
+
+## Object Detection with YOLO
+
+- [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
+
+![Object Detection Example](https://github.com/saeidKhoobdell/ComputerVisionLearning/assets/93375316/c15eaf9d-d78e-43a9-9123-2ef0fbaee788)
+
+Feel free to explore other folders and files in this repository for more learning resources.
+
+## Working with Video in OpenCV
+
+Explore various tasks related to working with video in OpenCV with these code examples:
+
+- [UsingWebcamAndCreatingLiveSketchVideo.ipynb](UsingWebcamAndCreatingLiveSketchVideo.ipynb): Demonstrates how to use a webcam to create a live sketch video.
+- [openingVideoFiles.ipynb](openingVideoFiles.ipynb): Learn how to open video files and perform operations on them.
+- [savingAndRecordingVideo.ipynb](savingAndRecordingVideo.ipynb): Explore how to save and record videos using OpenCV.
+- [VideoStreamsAndCCTV.ipynb](VideoStreamsAndCCTV.ipynb): Learn about video streams and CCTV applications using OpenCV.
+- [capturingVideoUsingScreenshots.ipynb](capturingVideoUsingScreenshots.ipynb): Capture video using screenshots with OpenCV.
+
+Feel free to dive into these notebooks to enhance your understanding of video processing in computer vision.
+
+## MetaCLIP: Understanding CLIP Data
+
+- [metaclip.ipynb](metaclip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
+
+ - For a better understanding, read the paper "[Demystifying CLIP Data](https://arxiv.org/abs/2309.16671)"
+ - For additional insights, you may find this article on Medium helpful: [MetaCLIP: Pushing Past the Limits of CLIP](https://medium.com/aimonks/metaclip-pushing-past-the-limits-of-clip-a-comprehensive-insight-f669bc7e2d60)
+
+Feel free to contribute to this repository by adding more learning materials, code examples, or additional sections related to computer vision.
+
+
+
+
+Happy learning!
+
+
