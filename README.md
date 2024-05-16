@@ -6,8 +6,6 @@ Welcome to the Computer Vision Learning repository! This repository is designed 
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
 
-![Object Detection Example](https://github.com/saeidKhoobdell/ComputerVisionLearning/assets/93375316/c15eaf9d-d78e-43a9-9123-2ef0fbaee788)
-
 Feel free to explore other folders and files in this repository for more learning resources.
 
 ## Working with Video in OpenCV
@@ -24,16 +22,27 @@ Feel free to dive into these notebooks to enhance your understanding of video pr
 
 ## MetaCLIP: Understanding CLIP Data
 
-- [metaclip.ipynb](metaclip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
+- [metaclip.ipynb](metaClip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
 
  - For a better understanding, read the paper "[Demystifying CLIP Data](https://arxiv.org/abs/2309.16671)"
  - For additional insights, you may find this article on Medium helpful: [MetaCLIP: Pushing Past the Limits of CLIP](https://medium.com/aimonks/metaclip-pushing-past-the-limits-of-clip-a-comprehensive-insight-f669bc7e2d60)
 
 Feel free to contribute to this repository by adding more learning materials, code examples, or additional sections related to computer vision.
 
+## CNN Classifier with PyTorch
 
+Explore the implementation of a Convolutional Neural Network (CNN) classifier using PyTorch with this code example:
 
+- [MNIST.ipynb](https://github.com/saeidKhoobdell/PyTorch-MNIST-CNN-Classifier/blob/main/MNIST.ipynb): Python script for building a CNN classifier for the MNIST dataset using PyTorch.
+
+Feel free to delve into this notebook to understand how to build and train CNN models for image classification tasks using PyTorch.
+
+## MNIST Classifier with Flask and React
+
+Implement a MNIST classifier using PyTorch, Flask, and React with this code example:
+
+- [MNIST Flask React Classifier](https://github.com/saeidKhoobdell/PyTorch-MNIST-Flask-React-Classifier): Python script for building a web-based MNIST classifier using PyTorch for the backend, Flask for the API, and React for the frontend.
+
+This project demonstrates how to deploy a machine learning model for MNIST digit classification as a web application. You can find detailed instructions and code in the repository.
 
 Happy learning!
-
-
