@@ -6,8 +6,6 @@ Welcome to the Computer Vision Learning repository! This repository is designed 
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
 
-
-
 Feel free to explore other folders and files in this repository for more learning resources.
 
 ## Working with Video in OpenCV
@@ -39,7 +37,12 @@ Explore the implementation of a Convolutional Neural Network (CNN) classifier us
 
 Feel free to delve into this notebook to understand how to build and train CNN models for image classification tasks using PyTorch.
 
+## MNIST Classifier with Flask and React
 
+Implement a MNIST classifier using PyTorch, Flask, and React with this code example:
 
+- [MNIST Flask React Classifier](https://github.com/saeidKhoobdell/PyTorch-MNIST-Flask-React-Classifier): Python script for building a web-based MNIST classifier using PyTorch for the backend, Flask for the API, and React for the frontend.
+
+This project demonstrates how to deploy a machine learning model for MNIST digit classification as a web application. You can find detailed instructions and code in the repository.
 
 Happy learning!
