@@ -45,4 +45,14 @@ Implement a MNIST classifier using PyTorch, Flask, and React with this code exam
 
 This project demonstrates how to deploy a machine learning model for MNIST digit classification as a web application. You can find detailed instructions and code in the repository.
 
+
+## CNN Classifier with TensorFlow and Keras
+
+Explore the implementation of a Convolutional Neural Network (CNN) classifier using TensorFlow and Keras with this code example:
+
+- [CnnClassiferWithTensorflow.ipynb](https://github.com/saeidKhoobdell/ComputerVisionBootcamp/blob/main/CnnClassiferWithTensorflow.ipynb): Python script for building a CNN classifier for the MNIST dataset using TensorFlow and Keras.
+
+Feel free to delve into this notebook to understand how to build and train CNN models for image classification tasks using TensorFlow and Keras.
+
+
 Happy learning!
