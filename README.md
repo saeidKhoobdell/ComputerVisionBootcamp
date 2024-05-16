@@ -55,4 +55,16 @@ Explore the implementation of a Convolutional Neural Network (CNN) classifier us
 Feel free to delve into this notebook to understand how to build and train CNN models for image classification tasks using TensorFlow and Keras.
 
 
+## Model Performance Analysis
+
+Analyze the performance of your machine learning models with these code examples:
+
+- [kerasModelPerformance.ipynb](https://github.com/saeidKhoobdell/ComputerVisionBootcamp/blob/main/kerasModelPerformance.ipynb): Explore model performance metrics, including confusion matrices and classification reports, for TensorFlow and Keras models.
+
+- [modelPerformanceAnalysis.ipynb](https://github.com/saeidKhoobdell/PyTorch-MNIST-CNN-Classifier/blob/main/modelPerformanceAnalysis.ipynb): Analyze model performance metrics, such as confusion matrices and classification reports, for PyTorch models.
+
+These notebooks provide insights into how to evaluate your models and identify areas for improvement.
+
+
+
 Happy learning!
