@@ -65,6 +65,25 @@ Analyze the performance of your machine learning models with these code examples
 
 These notebooks provide insights into how to evaluate your models and identify areas for improvement.
 
+### Computer Vision Learning Repository
+
+## DeepLearning-CNN-FMNIST-Experiments
+
+This repository contains Jupyter Notebooks demonstrating training CNNs on Fashion MNIST using PyTorch. Explore regularization and data augmentation techniques for better model performance.
+
+- `[PytorchCNNFnistWithoutRegularization.ipynb]([link_to_notebook](https://github.com/saeidKhoobdell/FMNIST-Regularization-CNN/blob/main/PytorchCNNFMnistWithoutRegularization.ipynb))`: Training without regularization.
+- `[PytorchCNNFnistWithRegularization.ipynb]([link_to_notebook](https://github.com/saeidKhoobdell/FMNIST-Regularization-CNN/blob/main/PytorchCNNFMnistWithRegularization.ipynb))`: Applying regularization methods.
+- `[dataAugmentation.ipynb]([link_to_notebook](https://github.com/saeidKhoobdell/FMNIST-Regularization-CNN/blob/main/dataAugmentation.ipynb))`: Using data augmentation techniques.
+
+### Regularization Methods:
+
+- **L1 Regularization**: Promotes sparsity.
+- **L2 Regularization**: Discourages large weights.
+- **Dropout**: Prevents overfitting.
+- **Batch Normalization**: Improves stability.
+- **Data Augmentation**: Enhances dataset diversity.
+
+Explore notebooks for technique impacts on training and model accuracy.
 
 
 Happy learning!
