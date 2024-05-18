@@ -65,7 +65,6 @@ Analyze the performance of your machine learning models with these code examples
 
 These notebooks provide insights into how to evaluate your models and identify areas for improvement.
 
-### Computer Vision Learning Repository
 
 ## DeepLearning-CNN-FMNIST-Experiments
 
