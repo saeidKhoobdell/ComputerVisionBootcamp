@@ -84,5 +84,25 @@ This repository contains Jupyter Notebooks demonstrating training CNNs on Fashio
 
 Explore notebooks for technique impacts on training and model accuracy.
 
+## Visualizing What CNN's Learn
+
+Explore the inner workings of Convolutional Neural Networks (CNNs) with the CNN Activation Analyzer. This section contains Jupyter notebooks designed to visualize and understand what CNNs learn during the training process.
+
+### Notebooks Included
+1. [Filter and Class Maximisation.ipynb](https://github.com/saeidKhoobdell/CNN-Activation-Analyzer/blob/main/Filter%20and%20Class%20Maximisation.ipynb)
+2. [Filter and Filter Activation Visualisation.ipynb](https://github.com/saeidKhoobdell/CNN-Activation-Analyzer/blob/main/Filter%20and%20Filter%20Activation%20Visualisation.ipynb)
+3. [GradCAM GradCAMplusplus and FasterScoreCAM.ipynb](https://github.com/saeidKhoobdell/CNN-Activation-Analyzer/blob/main/GradCAM%20GradCAMplusplus%20and%20FasterScoreCAM.ipynb)
+
+### Description of Techniques
+
+- **Filter Visualization**: Visualizes the filters of a CNN to understand the types of features the network learns.
+- **Filter Activation Visualization**: Visualizes the activation maps produced by CNN filters for a given input image.
+- **Filter Maximisation**: Generates images that maximize the activation of a particular filter.
+- **Class Maximisation**: Generates images that maximize the activation of a particular class score.
+- **GradCAM**: Produces heatmaps highlighting important regions in an input image that influence the CNN's decision.
+
+For more details, visit the [CNN-Activation-Analyzer Repository](https://github.com/saeidKhoobdell/CNN-Activation-Analyzer).
+
+---
 
 Happy learning!
