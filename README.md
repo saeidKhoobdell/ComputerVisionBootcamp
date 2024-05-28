@@ -105,4 +105,23 @@ For more details, visit the [CNN-Activation-Analyzer Repository](https://github.
 
 ---
 
+##Advanced CNN Architectures
+
+Explore the VisionArchitect repository, dedicated to rigorously testing advanced CNN architectures using Keras and PyTorch.
+
+- [VisionArchitect](https://github.com/saeidKhoobdell/VisionArchitect): Repository for experimenting with and evaluating various computer vision architectures.
+
+### Exploring Advanced CNN Architectures
+
+In this section, we delve deep into advanced CNN architectures, pushing the boundaries of computer vision research and applications.
+
+#### Notebook Contents
+
+- [letNetAndAlexNetWithKeras.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/letNetAndAlexNetWithKeras.ipynb): Demonstrates the implementation of LeNet and AlexNet using Keras.
+- [PretrainNetworkPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/PretrainNetworkPytorch.ipynb): Showcases the utilization of pre-trained networks in PyTorch.
+- [rankNAccuracyPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/rankNAccuracyPytorch.ipynb): Evaluates the accuracy of ranking in PyTorch models.
+
+
+
+
 Happy learning!
