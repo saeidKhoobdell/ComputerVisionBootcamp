@@ -105,7 +105,7 @@ For more details, visit the [CNN-Activation-Analyzer Repository](https://github.
 
 ---
 
-##Advanced CNN Architectures
+## Advanced CNN Architectures
 
 Explore the VisionArchitect repository, dedicated to rigorously testing advanced CNN architectures using Keras and PyTorch.
 
