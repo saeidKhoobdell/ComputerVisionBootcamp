@@ -2,11 +2,15 @@
 
 Welcome to the Computer Vision Learning repository! This repository is designed to provide learning materials and code examples to help you get started with Computer Vision.
 
-## Object Detection with YOLO
 
-- [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
 
-Feel free to explore other folders and files in this repository for more learning resources.
+## Face Detection with OpenCV(viola jones algorithm)
+
+Explore and learne how viola jones algorithm works:
+
+- [Face Detection with OpenCV](FaceDetectionWithOpencv.ipynb): Demonstrates how too use viola jones algorithm for face Detection.
+
+
 
 ## Working with Video in OpenCV
 
@@ -20,14 +24,6 @@ Explore various tasks related to working with video in OpenCV with these code ex
 
 Feel free to dive into these notebooks to enhance your understanding of video processing in computer vision.
 
-## MetaCLIP: Understanding CLIP Data
-
-- [metaclip.ipynb](metaClip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
-
- - For a better understanding, read the paper "[Demystifying CLIP Data](https://arxiv.org/abs/2309.16671)"
- - For additional insights, you may find this article on Medium helpful: [MetaCLIP: Pushing Past the Limits of CLIP](https://medium.com/aimonks/metaclip-pushing-past-the-limits-of-clip-a-comprehensive-insight-f669bc7e2d60)
-
-Feel free to contribute to this repository by adding more learning materials, code examples, or additional sections related to computer vision.
 
 ## CNN Classifier with PyTorch
 
@@ -121,7 +117,20 @@ In this section, we delve deep into advanced CNN architectures, pushing the boun
 - [PretrainNetworkPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/PretrainNetworkPytorch.ipynb): Showcases the utilization of pre-trained networks in PyTorch.
 - [rankNAccuracyPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/rankNAccuracyPytorch.ipynb): Evaluates the accuracy of ranking in PyTorch models.
 
+## Object Detection with YOLO
 
+- [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
+
+Feel free to explore other folders and files in this repository for more learning resources.
+
+## MetaCLIP: Understanding CLIP Data
+
+- [metaclip.ipynb](metaClip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
+
+ - For a better understanding, read the paper "[Demystifying CLIP Data](https://arxiv.org/abs/2309.16671)"
+ - For additional insights, you may find this article on Medium helpful: [MetaCLIP: Pushing Past the Limits of CLIP](https://medium.com/aimonks/metaclip-pushing-past-the-limits-of-clip-a-comprehensive-insight-f669bc7e2d60)
+
+Feel free to contribute to this repository by adding more learning materials, code examples, or additional sections related to computer vision.
 
 
 Happy learning!
