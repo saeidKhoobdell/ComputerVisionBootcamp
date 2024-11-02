@@ -117,6 +117,15 @@ In this section, we delve deep into advanced CNN architectures, pushing the boun
 - [PretrainNetworkPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/PretrainNetworkPytorch.ipynb): Showcases the utilization of pre-trained networks in PyTorch.
 - [rankNAccuracyPytorch.ipynb](https://github.com/saeidKhoobdell/VisionArchitect/blob/main/rankNAccuracyPytorch.ipynb): Evaluates the accuracy of ranking in PyTorch models.
 
+
+## Cat vs Dog Classification
+
+Explore the CatVsDogClassifier repository, focused on image classification of cats and dogs using PyTorch and PyTorch Lightning.
+
+- [CatVsDogWithPytorch.ipynb](https://github.com/saeidKhoobdell/CatVsDogClassifier/blob/main/CatVsDogWithPytorch.ipynb): Jupyter notebook for training the model using PyTorch.
+- [CatVsDogWithPytorchLightning.ipynb](https://github.com/saeidKhoobdell/CatVsDogClassifier/blob/main/CatVsDogWithPytorchLightning.ipynb): Jupyter notebook for training the model using PyTorch Lightning.
+
+
 ## Object Detection with YOLO
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
