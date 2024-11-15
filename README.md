@@ -128,6 +128,16 @@ Explore the CatVsDogClassifier repository, focused on image classification of ca
 
 ---
 
+## Transfer Learning for Vision Models
+
+Explore the TransferLearning_VisionModels_PyTorch repository, which focuses on using transfer learning for vision tasks with PyTorch and PyTorch Lightning.
+
+- [FeaturesExtraction_pytorchAndLogisticRegression.ipynb](https://github.com/saeidKhoobdell/TransferLearning_VisionModels_PyTorch/blob/main/FeaturesExtraction_pytorchAndLogisticRegression.ipynb): Jupyter notebook demonstrating feature extraction with a pre-trained VGG16 model and logistic regression.
+- [TransferLearning_pytorch.ipynb](https://github.com/saeidKhoobdell/TransferLearning_VisionModels_PyTorch/blob/main/TransferLearning_pytorch.ipynb): Jupyter notebook showcasing fine-tuning of ResNet18 using PyTorch.
+- [TransferLearning_pytorchLightning.ipynb](https://github.com/saeidKhoobdell/TransferLearning_VisionModels_PyTorch/blob/main/TransferLearning_pytorchLightning.ipynb): Jupyter notebook using PyTorch Lightning for structured model training with ResNet18.
+
+---
+
 ## Object Detection with YOLO
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
