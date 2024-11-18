@@ -137,6 +137,16 @@ Explore the TransferLearning_VisionModels_PyTorch repository, which focuses on u
 - [TransferLearning_pytorchLightning.ipynb](https://github.com/saeidKhoobdell/TransferLearning_VisionModels_PyTorch/blob/main/TransferLearning_pytorchLightning.ipynb): Jupyter notebook using PyTorch Lightning for structured model training with ResNet18.
 
 ---
+# Google Deep Dream
+
+Explore the Google Deep Dream repository.
+This repository contains a Jupyter Notebook implementation of the Google Deep Dream algorithm. Deep Dream is a computer vision program that uses a convolutional neural network to find and enhance patterns in images through algorithmic pareidolia, creating a dream-like psychedelic appearance.
+
+- [GoogleDeepDrean.ipynb](https://github.com/saeidKhoobdell/DeepDream/blob/main/GoogleDeepDrean.ipynb): Google Deep Dream implementation.
+
+
+
+---
 
 ## Object Detection with YOLO
 
