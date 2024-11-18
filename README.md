@@ -139,9 +139,7 @@ Explore the TransferLearning_VisionModels_PyTorch repository, which focuses on u
 ---
 # Google Deep Dream
 
-Explore the Google Deep Dream repository.
-This repository contains a Jupyter Notebook implementation of the Google Deep Dream algorithm. Deep Dream is a computer vision program that uses a convolutional neural network to find and enhance patterns in images through algorithmic pareidolia, creating a dream-like psychedelic appearance.
-
+Explore the Google Deep Dream repository that is a simplified version of "Deep Dream," a concept introduced by Google to generate artistic and psychedelic modifications of input images by enhancing patterns recognized by neural networks, particularly convolutional neural networks (CNNs).
 - [GoogleDeepDrean.ipynb](https://github.com/saeidKhoobdell/DeepDream/blob/main/GoogleDeepDrean.ipynb): Google Deep Dream implementation.
 
 
