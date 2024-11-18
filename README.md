@@ -143,6 +143,12 @@ Explore the Google Deep Dream repository that is a simplified version of "Deep D
 - [GoogleDeepDrean.ipynb](https://github.com/saeidKhoobdell/DeepDream/blob/main/GoogleDeepDrean.ipynb): Google Deep Dream implementation.
 
 
+---
+# Neural Style Transfer with PyTorch
+
+Explore the Style Transfer repository, which demonstrates the implementation of the Neural Style Transfer algorithm using PyTorch. This work is inspired by the research paper ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by Gatys et al. The Neural Style Transfer technique allows for the blending of the artistic style of one image with the content of another by optimizing an input image to minimize both content and style loss.
+
+- [styleTransfer.ipynb](https://github.com/saeidKhoobdell/Style-Transfer-with-pytorch/blob/main/styleTransfer.ipynb): Style Transfer implementation.
 
 ---
 
