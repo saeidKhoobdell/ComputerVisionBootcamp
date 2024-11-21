@@ -163,6 +163,8 @@ Explore the Autoencoder repository, which demonstrates the implementation of an 
 
 Feel free to explore other folders and files in this repository for more learning resources.
 
+---
+
 ## MetaCLIP: Understanding CLIP Data
 
 - [metaclip.ipynb](metaClip.ipynb): Explore MetaCLIP and its applications in computer vision tasks. This notebook delves into the concepts and implementations of MetaCLIP, providing code examples.
