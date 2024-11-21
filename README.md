@@ -151,7 +151,12 @@ Explore the Style Transfer repository, which demonstrates the implementation of 
 - [styleTransfer.ipynb](https://github.com/saeidKhoobdell/Style-Transfer-with-pytorch/blob/main/styleTransfer.ipynb): Style Transfer implementation.
 
 ---
+# Autoencoder on the Fashion MNIST Dataset Using PyTorch
+Explore the Autoencoder repository, which demonstrates the implementation of an Autoencoder using PyTorch. This project showcases how an Autoencoder can compress high-dimensional image data into a latent space and reconstruct the images while retaining key features. This work is inspired by the concept of unsupervised learning and dimensionality reduction techniques.
 
+- [autoencodersPytorch.ipynb](https://github.com/saeidKhoobdell/PyTorch-Autoencoders-using-the-Fashion-MNIST-Dataset/blob/main/autoencodersPytorch.ipynb): Autoencoder implementation on the Fashion MNIST dataset.
+
+---
 ## Object Detection with YOLO
 
 - [ObjectDetectionWithYOLOv3.ipynb](ObjectDetectionWithYOLOv3.ipynb): Python script for object detection using YOLOv3.
