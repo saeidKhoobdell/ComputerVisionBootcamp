@@ -157,13 +157,21 @@ Explore the Autoencoder repository, which demonstrates the implementation of an 
 - [autoencodersPytorch.ipynb](https://github.com/saeidKhoobdell/PyTorch-Autoencoders-using-the-Fashion-MNIST-Dataset/blob/main/autoencodersPytorch.ipynb): Autoencoder implementation on the Fashion MNIST dataset.
 
 ---
-### Generative Adversarial Network (GAN) on the MNIST Dataset Using PyTorch
+# Generative Adversarial Network (GAN) on the MNIST Dataset Using PyTorch
 
 Explore the [GAN repository](https://github.com/saeidKhoobdell/GAN_Pytorch), which implements a Generative Adversarial Network (GAN) in PyTorch. This project demonstrates how a GAN can generate realistic handwritten digits by training two neural networks in an adversarial framework: a generator and a discriminator. It highlights the power of generative models and unsupervised learning techniques.
 
 - [Gan_MNIST_Pytorch.ipynb](https://github.com/saeidKhoobdell/GAN_Pytorch/blob/main/Gan_MNIST_Pytorch.ipynb): Implementation of a GAN trained on the MNIST dataset to generate realistic handwritten digits.
 
 ---
+# Siamese Network on the Custom Dataset Using PyTorch
+Explore the [Siamese Network repository](https://github.com/saeidKhoobdell/Siamese-Network), which demonstrates the implementation of a Siamese Network using PyTorch. This project highlights how Siamese Networks can learn to compare pairs of input images, determining their similarity by projecting them into a shared latent space. It is inspired by tasks such as facial recognition, image matching, and other pairwise similarity tasks.
+
+- [siames_network_pytorch.ipynb](https://github.com/saeidKhoobdell/Siamese-Network/blob/main/siames_network_pytorch.ipynb):Implementation of a Siamese Network architecture for similarity detection.
+
+
+---
+
 
 ## Object Detection with YOLO
 
