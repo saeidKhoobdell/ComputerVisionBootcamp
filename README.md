@@ -164,7 +164,7 @@ Explore the [GAN repository](https://github.com/saeidKhoobdell/GAN_Pytorch), whi
 - [Gan_MNIST_Pytorch.ipynb](https://github.com/saeidKhoobdell/GAN_Pytorch/blob/main/Gan_MNIST_Pytorch.ipynb): Implementation of a GAN trained on the MNIST dataset to generate realistic handwritten digits.
 
 ---
-# Siamese Network on the Custom Dataset Using PyTorch
+# Siamese Network
 Explore the [Siamese Network repository](https://github.com/saeidKhoobdell/Siamese-Network), which demonstrates the implementation of a Siamese Network using PyTorch. This project highlights how Siamese Networks can learn to compare pairs of input images, determining their similarity by projecting them into a shared latent space. It is inspired by tasks such as facial recognition, image matching, and other pairwise similarity tasks.
 
 - [siames_network_pytorch.ipynb](https://github.com/saeidKhoobdell/Siamese-Network/blob/main/siames_network_pytorch.ipynb):Implementation of a Siamese Network architecture for similarity detection.
