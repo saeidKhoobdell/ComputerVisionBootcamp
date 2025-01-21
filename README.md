@@ -174,9 +174,7 @@ Explore the [Siamese Network repository](https://github.com/saeidKhoobdell/Siame
 
 # Facial Recognition Projects
 
-This repository provides a collection of projects related to facial recognition, leveraging advanced machine learning models and deep learning frameworks.
 
-## Face Recognition with PyTorch
 Explore the [Face Recognition with PyTorch](https://github.com/saeidKhoobdell/FaceRecognitionWithPytorch) repository, which demonstrates the implementation of facial similarity detection and comprehensive facial analysis using PyTorch and the DeepFace library.
 
 ### Included Projects:
