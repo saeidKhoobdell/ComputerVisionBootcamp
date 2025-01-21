@@ -172,6 +172,26 @@ Explore the [Siamese Network repository](https://github.com/saeidKhoobdell/Siame
 
 ---
 
+# Facial Recognition Projects
+
+This repository provides a collection of projects related to facial recognition, leveraging advanced machine learning models and deep learning frameworks.
+
+## Face Recognition with PyTorch
+Explore the [Face Recognition with PyTorch](https://github.com/saeidKhoobdell/FaceRecognitionWithPytorch) repository, which demonstrates the implementation of facial similarity detection and comprehensive facial analysis using PyTorch and the DeepFace library.
+
+### Included Projects:
+
+1. **Facial Similarity with FaceNet**  
+   Notebook: `Facial_similarity_with_FaceNet.ipynb`  
+   Description: This notebook explores how to calculate facial similarity using the FaceNet model.
+
+2. **DeepFace - Age, Gender, Expression, Headpose and Recognition**  
+   Notebook: `41. DeepFace - Age, Gender, Expression, Headpose and Recognition.ipynb`  
+   Description: This notebook provides an in-depth look into facial analysis using the DeepFace library, covering age, gender, expression, and head pose estimation.
+
+
+---
+
 
 ## Object Detection with YOLO
 
