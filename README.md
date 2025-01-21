@@ -184,7 +184,7 @@ Explore the [Face Recognition with PyTorch](https://github.com/saeidKhoobdell/Fa
    Description: This notebook explores how to calculate facial similarity using the FaceNet model.
 
 2. **DeepFace - Age, Gender, Expression, Headpose and Recognition**  
-   Notebook: `DeepFace - Age, Gender, Expression, Headpose and Recognition.ipynb`  
+   Notebook: [`DeepFace - Age, Gender, Expression, Headpose and Recognition.ipynb`](https://github.com/saeidKhoobdell/FaceRecognitionWithPytorch/blob/main/DeepFace%20-%20Age%2C%20Gender%2C%20Expression%2C%20Headpose%20and%20Recognition.ipynb)  
    Description: This notebook provides an in-depth look into facial analysis using the DeepFace library, covering age, gender, expression, and head pose estimation.
 
 
